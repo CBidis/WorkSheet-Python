@@ -15,6 +15,4 @@ conn.execute('''CREATE TABLE Ergo
         
         
         
-
-print ('Table created successfully')
 conn.close()
